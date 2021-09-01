@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intellegent, Robotics, Mobile Developer, Web Developer, Data Scientist
 - 🌱 I’m currently learning middle programming
 - 💞️ I’m looking to collaborate on my interested
-- 📫 How to reach me? WhatsApp 0895392498133
+- 📫 How to reach me? Email : baihaqiyazid16@gmail.com
 
 <!---
 baihaqiyazid/baihaqiyazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
